@@ -12,6 +12,7 @@
 
 ## 🖥️ Dashboard Preview
 Real-time dashboard with scan history, severity distribution, and OWASP-mapped findings.
+![APIScan Dashboard](https://github.com/Mithsah1325/Continuous-API-Security-Monitoring-Tool/raw/main/api%20security%20platform.png)
 
 [![APIScan Demo Video](https://img.youtube.com/vi/_UmvuNB7ISY/0.jpg)](https://youtu.be/_UmvuNB7ISY?si=j83c5q1WJrZycRdg)
 ---
