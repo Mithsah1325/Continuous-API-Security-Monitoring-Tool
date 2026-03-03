@@ -13,7 +13,7 @@ APIFortify is an automated security scanning tool that performs structured postu
 
 ## 🎥 Watch Full Demo
 
-[![APIFortify Demo](https://img.youtube.com/vi/ejLG_pj9k_Y/0.jpg)](https://www.youtube.com/watch?v=ejLG_pj9k_Y)
+[![APIScan Demo](https://img.youtube.com/vi/ejLG_pj9k_Y/0.jpg)](https://youtu.be/_UmvuNB7ISY)
 ---
 
 
