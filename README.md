@@ -1,4 +1,4 @@
-# 🛡️ APIFortify
+# 🛡️ APIScan
 
 **On-Demand APIFortify – Open Source REST API Security Scanner (OWASP API Top 10)**
 
